@@ -1,0 +1,14 @@
+.idea
+.idea/
+.DS_Store
+node_modules/
+.project
+dist
+dist/*
+build
+build/*
+src/config/*.tmp
+src/config/env.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
